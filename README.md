@@ -12,9 +12,7 @@ An intelligent real-time parking price optimization system that leverages demand
 - [ Pricing Models](#-pricing-models)
 - [ Real-Time Streaming](#-real-time-streaming)
 - [ Feature Engineering](#-feature-engineering)
-- [ Usage Guide](#-usage-guide)
 - [ Future Improvements](#-future-improvements)
-- [ Additional Notes](#-additional-notes)
 
 
 ## Project Overview
