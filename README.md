@@ -2,7 +2,7 @@
 
 An intelligent real-time parking price optimization system that leverages demand forecasting, traffic conditions, and competitive pricing strategies to dynamically compute and adjust parking prices across multiple city locations. This solution also incorporates **real-time streaming with Pathway**, and **interactive visualizations with Bokeh**.
 
-[google colab link](https://colab.research.google.com/drive/1yAkyLRopPcFwsEINEiMdpsxryHJIm5tW?authuser=1)
+[Google Colab Link](https://colab.research.google.com/drive/1yAkyLRopPcFwsEINEiMdpsxryHJIm5tW?authuser=1)
 
 ## Table of Contents
 
